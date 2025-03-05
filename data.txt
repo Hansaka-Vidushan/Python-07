@@ -1,0 +1,6 @@
+Name,Subject,Marks
+Saman,Sinhala,67
+Sineth,Sinhala,90
+Hansaka,ICT,99
+Vidushan,ET,67
+Sirimal,ICT,78
